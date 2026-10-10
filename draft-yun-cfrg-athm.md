@@ -59,7 +59,7 @@ informative:
         ins: Standards for Efficient Cryptography Group (SECG)
   CDV22:
     title: Anonymous Tokens with Stronger Metadata Bit Hiding from Algebraic MACs
-    target: https://eprint.iacr.org/2013/516
+    target: https://doi.org/10.1007/978-3-031-38545-2_14
 --- abstract
 
 This document specifies the Anonymous Tokens with Hidden Metadata (ATHM) protocol, a protocol
